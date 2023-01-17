@@ -1,12 +1,12 @@
 [
-	{"id":1,"name":"Ravi Kumar","dob":"24/11/1993"},
-	{"id":2,"name":"Samyak Rathore","dob":"05/03/1996"},
-	{"id":3,"name":"Anurag Kashyap","dob":"22/01/1993"},
-	{"id":4,"name":"Aman Verma","dob":"15/06/1999"},
-	{"id":5,"name":"Rahul Sharma","dob":"27/08/1998"},
-	{"id":6,"name":"Vikram Jain","dob":"29/04/1989"},
-	{"id":7,"name":"Jay Tiwari","dob":"12/12/1996"},
-	{"id":8,"name":"Deepak Kapoor","dob":"07/01/1994"},
-	{"id":9,"name":"Yash Khatri","dob":"11/07/1991"},
-	{"id":10,"name":"Harsh Dubey","dob":"21/03/2002"}
+	{"name":"Ravi Kumar","dob":"24/11/1993"},
+	{"name":"Samyak Rathore","dob":"05/03/1996"},
+	{"name":"Anurag Kashyap","dob":"22/01/1993"},
+	{"name":"Aman Verma","dob":"15/06/1999"},
+	{"name":"Rahul Sharma","dob":"27/08/1998"},
+	{"name":"Vikram Jain","dob":"29/04/1989"},
+	{"name":"Jay Tiwari","dob":"12/12/1996"},
+	{"name":"Deepak Kapoor","dob":"07/01/1994"},
+	{"name":"Yash Khatri","dob":"11/07/1991"},
+	{"name":"Harsh Dubey","dob":"21/03/2002"}
 ]
